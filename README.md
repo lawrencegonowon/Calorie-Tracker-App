@@ -1,8 +1,9 @@
-# Welcome to your Expo app 👋
+# Calorie-Tracker-App 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Note:** The files are in the app/(tabs) and components folder.
 
-## Get started
+## Homepage
+![BKT (2)](https://github.com/user-attachments/assets/d76aaca6-eada-4333-af37-656695024b63)
 
 1. Install dependencies
 
