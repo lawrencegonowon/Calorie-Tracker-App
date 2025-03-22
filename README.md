@@ -2,50 +2,33 @@
 
 **Note:** The files are in the app/(tabs) and components folder.
 
+
 ## Homepage
-https://drive.google.com/open?id=1eCF3sJVhxUsxKOc8EkoXJ8GpJ6rulE79&usp=drive_copy
+![Screenshot_20250312-004513](https://github.com/user-attachments/assets/43a92794-b451-44be-a614-83a7e8a5e603)
+Click Add Food button to add food and open a modal.
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+## Add Food Modal
+![Screenshot_20250312-004521](https://github.com/user-attachments/assets/03f4763d-901b-443e-b088-253b54ed5aba)
+![Screenshot_20250312-004559](https://github.com/user-attachments/assets/3d0722f4-e3ee-4737-8875-6c51afbbf071)
+Input Food and Calories.
 
-2. Start the app
 
-   ```bash
-    npx expo start
-   ```
+## Homepage with the infomation inputted
+![Screenshot_20250312-004602](https://github.com/user-attachments/assets/3429c7ad-e995-4165-9fed-5412d62410c2)
 
-In the output, you'll find options to open the app in a
+Add another item for example edit:
+![Screenshot_20250312-004630](https://github.com/user-attachments/assets/8ce95332-0daa-474c-8757-1c5e741ba01d)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Edit Item 
+After clicking edit, an edit modal will appear and you can edit the item. (I clicked the Orange with 16kcal)
+![Screenshot_20250312-004708](https://github.com/user-attachments/assets/2496744c-68a8-4118-a5e9-b6c6bdc1d738)
 
-## Get a fresh project
+Once the Update Food is clicked, this will edit the item.
+![Screenshot_20250312-004711](https://github.com/user-attachments/assets/12817590-0c21-4205-a88b-de0ef930a2bb)
 
-When you're ready, run:
 
-```bash
-npm run reset-project
-```
+## Delete Item 
+You can find a Delete button that allows you to remove items from the list. When you click this button, the selected information will be removed from the list.  (I clicked the Fish item)
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
