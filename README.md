@@ -3,7 +3,7 @@
 **Note:** The files are in the app/(tabs) and components folder.
 
 ## Homepage
-![BKT (2)](https://github.com/user-attachments/assets/d76aaca6-eada-4333-af37-656695024b63)
+https://drive.google.com/open?id=1eCF3sJVhxUsxKOc8EkoXJ8GpJ6rulE79&usp=drive_copy
 
 1. Install dependencies
 
