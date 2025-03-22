@@ -3,6 +3,10 @@
 **Note:** The files are in the app/(tabs) and components folder.
 
 
+
+
+
+
 **Homepage**
 ![Screenshot_20250312-004513](https://github.com/user-attachments/assets/43a92794-b451-44be-a614-83a7e8a5e603)
 Click Add Food button to add food and open a modal.
