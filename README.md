@@ -11,7 +11,7 @@ Click Add Food button to add food and open a modal.
 # Add Food Modal
 ![Screenshot_20250312-004521](https://github.com/user-attachments/assets/03f4763d-901b-443e-b088-253b54ed5aba)
 ![Screenshot_20250312-004559](https://github.com/user-attachments/assets/3d0722f4-e3ee-4737-8875-6c51afbbf071)
-Input Food and Calories.
+Input Food and Calories. Click the Add Food button to add the item.
 
 
 # Homepage with the addedd item
